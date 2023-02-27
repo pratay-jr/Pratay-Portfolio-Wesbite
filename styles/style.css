@@ -234,7 +234,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url("https://drive.google.com/file/d/1zmyBW9M8HyzPRQ7Q4UrLoCwOfsI-G-A2/view?usp=sharing");
+	background-image: url("./Images/profilejpg.JPG");
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -338,7 +338,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(https://drive.google.com/file/d/1zmyBW9M8HyzPRQ7Q4UrLoCwOfsI-G-A2/view?usp=share_link);
+	background-image: url(./Images/profilejpg.JPG);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
